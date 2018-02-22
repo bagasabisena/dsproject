@@ -1,0 +1,6 @@
+{
+    "project_name": "myproject",
+    "library_name": "{{cookiecutter.project_name | lower | replace('-', '_')}}",
+    "author_name": "Bagas Abisena",
+    "author_email": "bagasabisena@gmail.com"
+}
